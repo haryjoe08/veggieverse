@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901455032664",
+    "project_id": "fir-veggieverse",
+    "storage_bucket": "fir-veggieverse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901455032664:android:31a36d69c4c394e470f52d",
+        "android_client_info": {
+          "package_name": "com.example.veggieverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLH6wTCmc6KxmirhFC84bKkH3YePvMaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901455032664:android:64cae32af9f840e570f52d",
+        "android_client_info": {
+          "package_name": "com.harydev.veggieverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLH6wTCmc6KxmirhFC84bKkH3YePvMaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
